@@ -27,6 +27,6 @@ A simple yet interactive Tic Tac Toe game built using HTML, CSS3, and JavaScript
 
 ### Technologies Used
 
-- HTML5 for structure
+- HTML for structure
 - CSS3 for styling and layout
 - JavaScript for game logic
